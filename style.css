@@ -22,3 +22,9 @@ h1 {
 h2 {
 	text-align: center;
 }
+
+.sidfot {
+	background-image: url(./img/logo-html-css-js.png);
+	background-repeat: no-repeat;
+	height: 250px;
+}
